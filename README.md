@@ -13,4 +13,4 @@ To install:
     - `spicetify config current_theme dron`
     - `spicetify apply`
 
-Thanks to [Color Thief](https://lokeshdhakar.com/projects/color-thief/) for the 
+Thanks to [Color Thief](https://lokeshdhakar.com/projects/color-thief/) for the color grabbing code.
