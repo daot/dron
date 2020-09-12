@@ -15,7 +15,9 @@ Theme based on [Nord](https://github.com/morpheusthewhite/spicetify-themes/tree/
 
 ## Screenshots
 ![](sc1.png)
+
 ![](sc2.png)
+
 ![](sc3.png)
 
 Thanks to the [Color Thief](https://lokeshdhakar.com/projects/color-thief/) project for the color grabbing code.
