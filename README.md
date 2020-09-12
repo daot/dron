@@ -5,7 +5,7 @@ I wanted the [Spicetify](https://github.com/khanhas/spicetify-cli) theme to reac
 
 Theme based on [Nord](https://github.com/morpheusthewhite/spicetify-themes/tree/master/Nord) but I edited some greivances I had.
 
-To install:
+## To install:
 1. Copy `Extentions` and `Themes` folders to your `.spicetify` directory
 2. Run:
     - `spicetify config extensions dron.js`
@@ -13,4 +13,9 @@ To install:
     - `spicetify config current_theme dron`
     - `spicetify apply`
 
-Thanks to [Color Thief](https://lokeshdhakar.com/projects/color-thief/) for the color grabbing code.
+## Screenshots
+![](sc1.png)
+![](sc2.png)
+![](sc3.png)
+
+Thanks to the [Color Thief](https://lokeshdhakar.com/projects/color-thief/) project for the color grabbing code.
